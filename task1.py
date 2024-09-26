@@ -66,3 +66,4 @@ if __name__ == "__main__":
     #Print the average for even and odd numbers
     print(f"Average of even numbers: {even_avg}")
     print(f"Average of odd numbers: {odd_avg}")
+    print(sorted_numbers)
